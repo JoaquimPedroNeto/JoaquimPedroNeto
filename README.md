@@ -38,6 +38,9 @@ Olá! Que bom você por aqui! Me chamo Joaquim.
 Objetivos:
 
 Desenvolver habilidades em QA e contribuir para projetos de alta qualidade.
-Em breve postarei alguns dos projetos e estudos que venho realizando.
+
+Em breve postarei alguns dos projetos e estudos que venho realizando em minha trajetoria em QA. 
+
 Linkedin: https://www.linkedin.com/in/joaquim-pedro-445a51148/
+
 E-mail: joaquim.netopessoal@gmail.com
