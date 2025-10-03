@@ -1,36 +1,43 @@
-Olá! Joaquim falando aqui! 
+Olá! Que bom você por aqui! Me chamo Joaquim. 
 
-Migrando para QA , com foco em testes manuais, automação e colaboração em métodos ágeis 🚀.
+------------------------------------------------------------------------------------------
 
-Principais Ferramentas:
+🔍Quality Assurance - QA - em transição | Testes de Software & QA | Foco em resultados e melhoria contínua, com foco em testes manuais, automação e métodos ágeis⏰
 
-🖥️ Selenium (automação web)
+-------------------------------------------------------------------------------------------
+💻Tecnologias e Ferramentas:🛠
 
-🧩 Cypress (automação de testes)
+• Selenium (automação web)
 
-📝 JIRA (gestão de tarefas/bugs)
+• Cypress (automação de testes)
 
-🔗 Postman (testes de API)
+• JIRA (gestão de tarefas/bugs)
 
-💾 Git/GitHub (versionamento e documentação)
+• Postman (testes de API)
 
-Metodologias:
-🔄 Scrum (métodos ágeis e trabalho em equipe)
+• Git/GitHub (versionamento e documentação)
 
+---------------------------------------------------------------------------------------------
 
-Habilidades:
+⚙️Metodologias:⏱
 
-🎯 Elaboração e execução de casos de teste
+• Metodologias Ágeis - Scrum, Kanban
 
-🐞 Reporte de bugs e documentação clara
+--------------------------------------------------------------------------------------------
 
-🧪 Testes funcionais e exploratórios
+🐞Habilidades:🛡
 
-📈 Interesse por evolução em automação
+• Testes manuais e Automação de Testes
 
-Objetivo:
+• Elaboração e execução de casos de teste
 
-Desenvolver habilidades em QA e contribuir para projetos de alta qualidade ⚡
+• Reporte de bugs e documentação clara
+
+--------------------------------------------------------------------------------------------
+
+Objetivos:
+
+Desenvolver habilidades em QA e contribuir para projetos de alta qualidade.
 Em breve postarei alguns dos projetos e estudos que venho realizando.
 Linkedin: https://www.linkedin.com/in/joaquim-pedro-445a51148/
 E-mail: joaquim.netopessoal@gmail.com
