@@ -1,4 +1,4 @@
-Olá! Que bom você por aqui! Me chamo Joaquim, QA em transição de carreia. 
+Olá! Joaquim falando aqui,  QA em transição de carreia. 
 
 ------------------------------------------------------------------------------------------
 
