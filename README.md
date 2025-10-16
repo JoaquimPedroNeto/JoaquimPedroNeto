@@ -1,8 +1,8 @@
-Olá! Que bom você por aqui! Me chamo Joaquim. 
+Olá! Que bom você por aqui! Me chamo Joaquim, QA em transição de carreia. 
 
 ------------------------------------------------------------------------------------------
 
-🔍Quality Assurance - QA - em transição | Testes de Software & QA | Foco em resultados e melhoria contínua, com foco em testes manuais, automação e métodos ágeis⏰
+🔍Quality Assurance - QA - em transição | Testes de Software & QA | Foco em qualidade, resultados e melhoria contínua, com foco em testes manuais, automação e métodos ágeis⏰
 
 -------------------------------------------------------------------------------------------
 💻Tecnologias e Ferramentas:🛠
