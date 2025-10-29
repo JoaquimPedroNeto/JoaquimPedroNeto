@@ -1,11 +1,16 @@
-Olá! Joaquim falando aqui,  QA em transição de carreia. 
-
+Olá! Joaquim falando aqui,  QA em formação, em busca de sua primeira oportunidade em QA! 
 ------------------------------------------------------------------------------------------
 
-🔍Quality Assurance - QA - em transição | Testes de Software & QA | Foco em qualidade, resultados e melhoria contínua, com foco em testes manuais, automação e métodos ágeis⏰
+🔍Quality Assurance - QA - em transição  
+
+Testes de Software & QA 
+
+Foco em qualidade, resultados e melhoria contínua, com foco em testes manuais, automação e métodos ágeis⏰
 
 -------------------------------------------------------------------------------------------
 💻Tecnologias e Ferramentas:🛠
+
+• Teste Manuais e Automação
 
 • Selenium (automação web)
 
@@ -17,11 +22,8 @@ Olá! Joaquim falando aqui,  QA em transição de carreia.
 
 • Git/GitHub (versionamento e documentação)
 
----------------------------------------------------------------------------------------------
+• Metedologia Agil ( Scrum|Kanbam) 
 
-⚙️Metodologias:⏱
-
-• Metodologias Ágeis - Scrum, Kanban
 
 --------------------------------------------------------------------------------------------
 
@@ -39,8 +41,10 @@ Objetivos:
 
 Desenvolver habilidades em QA e contribuir para projetos de alta qualidade.
 
-Em breve postarei alguns dos projetos e estudos que venho realizando em minha trajetoria em QA. 
+--------------------------------------------------------------------------------------------
 
 Linkedin: https://www.linkedin.com/in/joaquim-pedro-445a51148/
 
 E-mail: joaquim.netopessoal@gmail.com
+
+Jira: https://joaquimnetopessoal.atlassian.net/jira/for-you
