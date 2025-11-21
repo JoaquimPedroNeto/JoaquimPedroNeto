@@ -1,4 +1,4 @@
-Olá! Joaquim falando aqui,  QA em formação, em busca de sua primeira oportunidade em QA! 
+Olá! Joaquim falando aqui,  QA em formação, em busca de sua primeira oportunidade em QA!  
 ------------------------------------------------------------------------------------------
 
 🔍Quality Assurance - QA - em transição  
